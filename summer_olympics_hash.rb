@@ -33,8 +33,8 @@ def iterate_through_hash
   # and puts each key value pair within the phrase "The _____ summer olympics took place in _____."
   
   
-     summer_olympics = ["24k magic CD", "crocs", 'potato', 'Act prep book']
-    year = [2000, 2004, ]
+     summer_olympics = [:sydney,:athens ]
+    year = [2000, 2004, 2008, 20012 ]
     
     summer_olympics = {}
     year = 0 
